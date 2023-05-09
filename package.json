@@ -1,4 +1,6 @@
 {
     "name": "@cg-dcx/create-mfe-app",
+    "version": "0.0.1",
+    "description": "Starter for microfrontend app",
     "bin": "./bin/cli"
 }
