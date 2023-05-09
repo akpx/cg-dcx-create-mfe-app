@@ -1,0 +1,4 @@
+{
+    "name": "@cg-dcx/create-mfe-app",
+    "bin": "./bin/cli"
+}
